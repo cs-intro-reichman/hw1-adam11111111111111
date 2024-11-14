@@ -8,6 +8,6 @@ public class Bill3 {
 		double payment = bill / 3.0;
 		payment = Math.ceil(payment);
 		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 +
-							": pay " + payment + " shekels each");
+							": pay " + payment + " Shekels each");
 	}
 }
